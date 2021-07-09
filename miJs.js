@@ -1,0 +1,6 @@
+
+$( function() {
+    $( "#calculadora" ).draggable();
+  } );
+
+
